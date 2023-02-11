@@ -2,7 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://github.com/ZhangJiaoZhuYYDS/2023/02/10/%E6%88%91%E6%98%AF%E4%B8%89%E6%9C%88%E9%A9%AC%E5%BF%A0%E9%B9%8F/</loc>
+    <loc>https://github.com/ZhangJiaoZhuYYDS/tags/index.html</loc>
+    
+    <lastmod>2023-02-11</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://github.com/ZhangJiaoZhuYYDS/categories/index.html</loc>
+    
+    <lastmod>2023-02-11</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://github.com/ZhangJiaoZhuYYDS/link/index.html</loc>
     
     <lastmod>2023-02-10</lastmod>
     
@@ -40,7 +58,7 @@
 
   <url>
     <loc>https://github.com/ZhangJiaoZhuYYDS</loc>
-    <lastmod>2023-02-10</lastmod>
+    <lastmod>2023-02-11</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
