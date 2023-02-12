@@ -11,15 +11,6 @@
   </url>
   
   <url>
-    <loc>https://github.com/ZhangJiaoZhuYYDS/2022/10/29/%E6%88%91%E7%9A%84%E7%AC%AC%E4%BA%8C%E7%AF%87%E5%8D%9A%E5%AE%A2/</loc>
-    
-    <lastmod>2023-02-12</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://github.com/ZhangJiaoZhuYYDS/2022/02/19/java8%E5%87%BD%E6%95%B0%E5%BC%8F%E7%BC%96%E7%A8%8B/</loc>
     
     <lastmod>2023-02-12</lastmod>
@@ -56,15 +47,6 @@
   </url>
   
   <url>
-    <loc>https://github.com/ZhangJiaoZhuYYDS/pages/e914bb/</loc>
-    
-    <lastmod>2023-01-14</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://github.com/ZhangJiaoZhuYYDS/pages/ba30cb/</loc>
     
     <lastmod>2023-01-14</lastmod>
@@ -74,7 +56,7 @@
   </url>
   
   <url>
-    <loc>https://github.com/ZhangJiaoZhuYYDS/pages/bd7bd6/</loc>
+    <loc>https://github.com/ZhangJiaoZhuYYDS/pages/1f9dd1/</loc>
     
     <lastmod>2023-01-14</lastmod>
     
@@ -83,7 +65,16 @@
   </url>
   
   <url>
-    <loc>https://github.com/ZhangJiaoZhuYYDS/pages/1f9dd1/</loc>
+    <loc>https://github.com/ZhangJiaoZhuYYDS/pages/e914bb/</loc>
+    
+    <lastmod>2023-01-14</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://github.com/ZhangJiaoZhuYYDS/pages/bd7bd6/</loc>
     
     <lastmod>2023-01-14</lastmod>
     
